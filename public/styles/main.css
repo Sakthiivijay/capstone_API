@@ -5,8 +5,7 @@ body{
   font-style: normal;
   color:antiquewhite;
   background: #12151e;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+ 
 
 }
 
@@ -19,7 +18,7 @@ p{
   align-items: center;
   flex-direction: column;
   justify-content:center;
-  height:95vh;
+  height:70vh;
   gap:50px;
 
 }
@@ -34,7 +33,7 @@ p{
 
 .newjoke{
     border-style:none;
-    padding:20px;
+    padding:10px;
     border-radius:10px;
     background-color:rgb(7, 134, 245);
 
